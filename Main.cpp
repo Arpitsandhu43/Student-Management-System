@@ -2,7 +2,7 @@
 #include "loading.h"
 #include <string>
 #include <Windows.h>
-#include "adminFunction.h"
+#include "Function.h"
 
 using namespace std;
 
