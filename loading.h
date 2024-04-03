@@ -22,7 +22,7 @@ void loadingBar()
 
 	//cout<<"\n\n\n\n\n\t\t\t\t\tStudent's Data Management System";
 
-	cout<<"\n\t\t\t\t\tProject By Ajay Singh";
+	cout<<"\n\t\t\t\t\tProject By "Arpit Sandhu";
 
 	cout<<"\n\n\n\t\t\t\t\tLoading...\n";
 
